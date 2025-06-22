@@ -1,0 +1,3 @@
+https://www.r-bloggers.com/2016/01/intro-to-text-analysis-with-r/
+https://www.tidytextmining.com/ngrams.html
+https://bookdown.org/davi_moreira/txt4cs/intro.html#o-r-e-o-rstudio

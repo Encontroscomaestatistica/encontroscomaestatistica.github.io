@@ -1,0 +1,62 @@
+---
+title: "Curso de Introdução à Manipulação de Textos Usando o R"
+lang: pt-BR
+format: html
+toc: true # Isso atribui o contéudo a direita
+---
+
+
+# Descrição
+
+Olá, pessoal! Viemos fazer um convite a vocês. Entre os dias **24/05 e 02/06** estaremos disponibilizando o minicurso **“Introdução à Manipulação de Textos Usando o R”**! O curso será assíncrono e ministrado pelo aluno **Bernardo Alvim**, do 5º período do curso.
+
+Manipular textos é algo que possui ampla aplicação e pode ser utilizado por estudantes de diversas áreas da ciência. Não perca essa oportunidade. Corra e faça sua inscrição!
+
+## Playlsit de Vídeoaulas
+
+  - [Aula	1](https://youtu.be/ffWvujI2qT4){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2.1](https://youtu.be/CKCemQoQKCk){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2.2](https://youtu.be/i91OZjgt9nk){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	3](https://youtu.be/1mtlH84ztYg){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	4](https://youtu.be/S4Qn9-JW0q4){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	5](https://youtu.be/7E8dDnxfN2s){target="_blank" rel="noopener noreferrer"}.
+
+## Exemplos e exercícios
+
+  - [Exercício	1](../Introducao a Manipulacao de Textos Usando o R/Exercicios_Aula_1.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Exercício	2](../Introducao a Manipulacao de Textos Usando o R/Exercicios_Aula_2.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Exercício	3](../Introducao a Manipulacao de Textos Usando o R/Exercicios_Aula_3.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Exercício	4](../Introducao a Manipulacao de Textos Usando o R/Exercicios_Aula_4.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+
+## Material de Apoio
+
+  - [Resolução do exercício	1](../Introducao a Manipulacao de Textos Usando o R/resolucao_ex1.R){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Resolução do exercício	2](../Introducao a Manipulacao de Textos Usando o R/resolucao_ex2.R){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Resolução do exercício	3](../Introducao a Manipulacao de Textos Usando o R/resolucao_ex3.R){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Resolução do exercício	4](../Introducao a Manipulacao de Textos Usando o R/resolucao_ex4.R){target="_blank" rel="noopener noreferrer"}.
+  
+  - [RegEx	Aula 2](../Introducao a Manipulacao de Textos Usando o R/RegEx.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Poder do Hábito	Aula 3](../Introducao a Manipulacao de Textos Usando o R/poder_do_habito.txt){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Links	Aula 5](../Introducao a Manipulacao de Textos Usando o R/links_aula5.txt){target="_blank" rel="noopener noreferrer"}.
+
+## Conjuntos de Dados
+
+*Não foi disponibilizado nenhum conjunto de dados neste curso.*
+
+## Sobre o ministrante
+
+ - Bernardo Alvim
