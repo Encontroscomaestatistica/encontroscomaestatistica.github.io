@@ -4,7 +4,8 @@ lang: pt-BR
 format: html
 toc: true # Isso atribui o contéudo a direita
 ---
-# DESCRIÇÃO
+
+## Descrição
 
 A geração de relatórios técnicos e páginas web de análise de dados conectadas diretamente com grandes bases de dados estão se tornando cada vez mais comuns e necessárias no contexto acadêmico e técnico atual.
 
@@ -36,13 +37,13 @@ O objetivo deste curso é ensinar não só os conceitos que estão por trás do 
   
   - [Aula	1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula1Gabarito.pdf){target="_blank" rel="noopener noreferrer"}.
   
-  - [Link da Aula	1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/link1){target="_blank" rel="noopener noreferrer"}.
+  - [Link da Aula	1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/link1.txt){target="_blank" rel="noopener noreferrer"}.
   
   - [Aula	1 - Gabarito](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula1Gabarito.Rmd){target="_blank" rel="noopener noreferrer"}.
   
   - [Aula	2](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gabarito.pdf){target="_blank" rel="noopener noreferrer"}.
   
-  - [Aula	2 - Gabarito 1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gabarito.Rmd){target="_blank" rel="noopener noreferrer"}.
+  - [Aula	2 - Gabarito 1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gab.Rmd){target="_blank" rel="noopener noreferrer"}.
   
   - [Aula	2 - Gabarito 2](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2GabaritoHTML.Rmd){target="_blank" rel="noopener noreferrer"}.
   

@@ -1,13 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-BR" xml:lang="pt-BR"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Calvin Rodrigues">
+<meta name="dcterms.date" content="2021-11-07">
 
-<title>Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown – Encontros com a estatística</title>
+<title>Aula 2 Gabarito HTML – Encontros com a estatística</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -55,17 +57,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "Nenhum resultado",
-    "search-matching-documents-text": "documentos correspondentes",
-    "search-copy-link-title": "Copiar link para a busca",
-    "search-hide-matches-text": "Esconder correspondências adicionais",
-    "search-more-match-text": "mais correspondência neste documento",
-    "search-more-matches-text": "mais correspondências neste documento",
-    "search-clear-button-title": "Limpar",
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar",
-    "search-label": "Procurar"
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -73,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -84,8 +86,8 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Encontros com a estatística</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Procurar"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Alternar de navegação" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -108,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Alternar modo escuro"><i class="bi"></i></a>
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -117,33 +119,33 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Nesta página</h2>
-   
-  <ul>
-  <li><a href="#descrição" id="toc-descrição" class="nav-link active" data-scroll-target="#descrição">Descrição</a></li>
-  <li><a href="#playlsit-de-vídeoaulas" id="toc-playlsit-de-vídeoaulas" class="nav-link" data-scroll-target="#playlsit-de-vídeoaulas">Playlsit de Vídeoaulas</a></li>
-  <li><a href="#exemplos-e-exercícios" id="toc-exemplos-e-exercícios" class="nav-link" data-scroll-target="#exemplos-e-exercícios">Exemplos e exercícios</a></li>
-  <li><a href="#material-de-apoio" id="toc-material-de-apoio" class="nav-link" data-scroll-target="#material-de-apoio">Material de Apoio</a></li>
-  <li><a href="#conjuntos-de-dados" id="toc-conjuntos-de-dados" class="nav-link" data-scroll-target="#conjuntos-de-dados">Conjuntos de Dados</a></li>
-  <li><a href="#sobre-o-ministrante" id="toc-sobre-o-ministrante" class="nav-link" data-scroll-target="#sobre-o-ministrante">Sobre o ministrante</a></li>
-  </ul>
-</nav>
-    </div>
+    
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown</h1>
+<h1 class="title">Aula 2 Gabarito HTML</h1>
+<p class="subtitle lead">Exemplo de gabarito para a segunda aula do minicurso</p>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Calvin Rodrigues </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">November 7, 2021</p>
+    </div>
+  </div>
   
     
   </div>
@@ -153,52 +155,13 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="descrição" class="level2">
-<h2 class="anchored" data-anchor-id="descrição">Descrição</h2>
-<p>A geração de relatórios técnicos e páginas web de análise de dados conectadas diretamente com grandes bases de dados estão se tornando cada vez mais comuns e necessárias no contexto acadêmico e técnico atual.</p>
-<p>A funcionalidade <strong>R Markdown</strong> tem sido muito utilizada por estatísticos pela familiaridade que os profissionais da área possuem com o R. Diversos tutoriais a respeito do uso de R Markdown estão disponíveis na internet.</p>
-<p>O objetivo deste curso é ensinar não só os conceitos que estão por trás do uso do R Markdown e de suas aplicações, mas também oferecer uma estrutura sólida para a elaboração de procedimentos automatizados para relatar análise de dados.</p>
-</section>
-<section id="playlsit-de-vídeoaulas" class="level2">
-<h2 class="anchored" data-anchor-id="playlsit-de-vídeoaulas">Playlsit de Vídeoaulas</h2>
+<div style="page-break-after: always;"></div>
 <ul>
-<li><p><a href="https://youtu.be/rqEqkDEXjNA" target="_blank" rel="noopener noreferrer">Aula 1</a>.</p></li>
-<li><p><a href="https://youtu.be/BiGaWVX2lik" target="_blank" rel="noopener noreferrer">Aula 2.1</a>.</p></li>
-<li><p><a href="https://youtu.be/JqR3flKhPIc" target="_blank" rel="noopener noreferrer">Aula 2.2</a>.</p></li>
-<li><p><a href="https://youtu.be/cCiNcEA1iUw" target="_blank" rel="noopener noreferrer">Aula 3</a>.</p></li>
-<li><p><a href="https://youtu.be/B5yl880J94k" target="_blank" rel="noopener noreferrer">Aula 4</a>.</p></li>
-<li><p><a href="https://youtu.be/z4PrhZXAevM" target="_blank" rel="noopener noreferrer">Aula 5</a>.</p></li>
+<li><p>Possíveis temas para <strong>highlight</strong>: default, tango, pygments, kate, monochrome, espresso, zenburn, haddock</p></li>
+<li><p>Possíveis <strong>temas</strong> para a página <strong>HTML</strong>: default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, yeti</p></li>
 </ul>
-</section>
-<section id="exemplos-e-exercícios" class="level2">
-<h2 class="anchored" data-anchor-id="exemplos-e-exercícios">Exemplos e exercícios</h2>
-<p><em>Não foi disponibilizado nenhum exercício neste curso.</em></p>
-</section>
-<section id="material-de-apoio" class="level2">
-<h2 class="anchored" data-anchor-id="material-de-apoio">Material de Apoio</h2>
-<ul>
-<li><p><a href="../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Apresentação minicurso.pdf" target="_blank" rel="noopener noreferrer">Apresentação</a>.</p></li>
-<li><p><a href="../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula1Gabarito.pdf" target="_blank" rel="noopener noreferrer">Aula 1</a>.</p></li>
-<li><p><a href="../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/link1.txt" target="_blank" rel="noopener noreferrer">Link da Aula 1</a>.</p></li>
-<li><p><a href="../../minicursos/Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula1Gabarito.html" target="_blank" rel="noopener noreferrer">Aula 1 - Gabarito</a>.</p></li>
-<li><p><a href="../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gabarito.pdf" target="_blank" rel="noopener noreferrer">Aula 2</a>.</p></li>
-<li><p><a href="../../minicursos/Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gab.html" target="_blank" rel="noopener noreferrer">Aula 2 - Gabarito 1</a>.</p></li>
-<li><p><a href="../../minicursos/Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2GabaritoHTML.html" target="_blank" rel="noopener noreferrer">Aula 2 - Gabarito 2</a>.</p></li>
-<li><p><a href="../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula3.pdf" target="_blank" rel="noopener noreferrer">Aula 3</a>.</p></li>
-<li><p><a href="../../minicursos/Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula3.html" target="_blank" rel="noopener noreferrer">Aula 3 - Gabarito</a>.</p></li>
-<li><p><a href="../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/link4.txt" target="_blank" rel="noopener noreferrer">Link da Aula 4</a>.</p></li>
-</ul>
-</section>
-<section id="conjuntos-de-dados" class="level2">
-<h2 class="anchored" data-anchor-id="conjuntos-de-dados">Conjuntos de Dados</h2>
-<p><em>Não foi disponibilizado nenhum conjunto de dados neste curso.</em></p>
-</section>
-<section id="sobre-o-ministrante" class="level2">
-<h2 class="anchored" data-anchor-id="sobre-o-ministrante">Sobre o ministrante</h2>
-<p>Calvin Silva Rodrigues</p>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -388,12 +351,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copiada");
+    button.setAttribute("title", "Copied!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copiada");
+      button.setAttribute("data-bs-title", "Copied!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
