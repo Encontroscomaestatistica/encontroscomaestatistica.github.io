@@ -1,0 +1,112 @@
+---
+title: "Aula 3"
+author: "Calvin Rodrigues"
+date: "18/07/2021"
+output:
+  pdf_document:
+    toc: true
+    toc_depth: 3
+    number_sections: true
+    highlight: default
+fontsize: 12pt
+line-height: 1.5em
+font-family: times new roman 
+subtitle: LaTeX
+---
+
+\newpage
+
+# Site oficial
+
+https://www.latex-project.org
+
+# Ambiente Matemático
+
+
+## Pontuação
+
+$$\hat{m}; \widehat{arcsen}; \bar{m}; \tilde{m}; \widetilde{arccos}$$
+
+$$\alpha; \sigma; \delta; \Delta; \lambda; \Lambda$$
+
+$$\geq;~\le;~\neq;~\approx;~\equiv$$
+
+## Equações
+
+$$b^2;~b^{2a}$$
+$$b_1;~b_{i~,~j}$$
+
+$$\sqrt[3]{a + b}$$
+$$\frac{a_1+b^2}{\sqrt[4]{\sigma}}$$
+$$\int_{x}^{2} 2x^3$$
+$$\frac{df}{dx}$$
+$$\frac{\partial ^2 f}{\partial x^2}$$
+$$\sum_{i=0}^n a_i + 2$$
+$$\prod_{i=0}^n a_i.b$$
+$$\lim_{x \rightarrow a} \frac{\sin x}{x}$$
+
+$$\vec{a};~\overrightarrow{ava}$$
+
+\begin{displaymath}
+\left[
+\begin{array}{ccc}
+1 & 2 & 3 \\
+4 & 5 & 6 \\
+7 & 8 & 9 \\
+\end{array}
+\right]_{3 \times 3}
+\end{displaymath}
+
+
+## Tabelas 
+
+```{=latex}
+\begin{table}[h]
+\centering
+\begin{tabular}{c|l|r}
+
+\hline
+ID & Produto & Preço \\
+\hline
+1 & Computador & 3.000,00 \\
+2 & Mouse &  100,00 \\
+3 & Teclado & 150,00 \\
+\hline
+
+
+\end{tabular}
+\caption{Exemplo}
+\end{table}
+```
+
+
+## Aplicação
+
+$~~$Para o valor de $\Delta$, temos:
+
+\begin{equation}
+\Delta = b^2 - 4.a.c
+\end{equation}
+
+$~~$Para os valores de x, temos: 
+
+\begin{equation}
+x = \frac{-b \pm \sqrt{\Delta}}{2.a}
+\end{equation}
+
+- Encontrando $x_1$
+
+\begin{equation}
+x_1 = \frac{-b - \sqrt{\Delta}}{2.a}
+\end{equation}
+
+- Encontrando $x_2$
+
+\begin{equation}
+x_2 = \frac{-b + \sqrt{\Delta}}{2.a}
+\end{equation}
+
+
+
+
+

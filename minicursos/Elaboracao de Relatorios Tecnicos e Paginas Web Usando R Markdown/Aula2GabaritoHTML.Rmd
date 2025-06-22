@@ -1,0 +1,25 @@
+---
+title: "Aula 2 Gabarito HTML"
+author: "Calvin Rodrigues"
+date: "11/07/2021"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+    number_sections: true
+    toc_float:
+        collapsed: false
+        smooth_scroll: false
+    highlight: monochrome
+    theme: readable
+line-height: 1.5em
+fontsize: 12pt
+font-family: times new roman
+subtitle: Exemplo de gabarito para a segunda aula do minicurso
+---
+
+\newpage
+
+- Possíveis temas para **highlight**: default, tango, pygments, kate, monochrome, espresso, zenburn, haddock
+
+- Possíveis **temas** para a página **HTML**: default, cerulean, journal, flatly, darkly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, yeti

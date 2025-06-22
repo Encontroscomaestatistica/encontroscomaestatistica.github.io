@@ -1,0 +1,63 @@
+---
+title: "Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown"
+lang: pt-BR
+format: html
+toc: true # Isso atribui o contéudo a direita
+---
+# DESCRIÇÃO
+
+A geração de relatórios técnicos e páginas web de análise de dados conectadas diretamente com grandes bases de dados estão se tornando cada vez mais comuns e necessárias no contexto acadêmico e técnico atual.
+
+A funcionalidade **R Markdown** tem sido muito utilizada por estatísticos pela familiaridade que os profissionais da área possuem com o R. Diversos tutoriais a respeito do uso de R Markdown estão disponíveis na internet.
+
+O objetivo deste curso é ensinar não só os conceitos que estão por trás do uso do R Markdown e de suas aplicações, mas também oferecer uma estrutura sólida para a elaboração de procedimentos automatizados para relatar análise de dados.
+
+## Playlsit de Vídeoaulas
+
+  - [Aula	1](https://youtu.be/rqEqkDEXjNA){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2.1](https://youtu.be/BiGaWVX2lik){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2.2](https://youtu.be/JqR3flKhPIc){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	3](https://youtu.be/cCiNcEA1iUw){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	4](https://youtu.be/B5yl880J94k){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	5](https://youtu.be/z4PrhZXAevM){target="_blank" rel="noopener noreferrer"}.
+
+## Exemplos e exercícios
+
+*Não foi disponibilizado nenhum exercício neste curso.*
+
+## Material de Apoio
+
+  - [Apresentação](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Apresentação minicurso.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula1Gabarito.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Link da Aula	1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/link1){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	1 - Gabarito](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula1Gabarito.Rmd){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gabarito.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2 - Gabarito 1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gabarito.Rmd){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2 - Gabarito 2](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2GabaritoHTML.Rmd){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	3](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula3.pdf){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	3 - Gabarito](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula3.Rmd){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Link da Aula	4](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/link4.txt){target="_blank" rel="noopener noreferrer"}.
+  
+
+
+## Conjuntos de Dados
+
+*Não foi disponibilizado nenhum conjunto de dados neste curso.*
+
+## Sobre o ministrante
+
+Calvin Silva Rodrigues

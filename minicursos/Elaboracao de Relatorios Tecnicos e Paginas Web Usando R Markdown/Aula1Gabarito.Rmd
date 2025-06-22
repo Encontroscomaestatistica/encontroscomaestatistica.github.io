@@ -1,0 +1,133 @@
+---
+title: "Aula 1 - Gabarito"
+author: "Calvin Rodrigues"
+date: "19/07/2021"
+output: pdf_document
+---
+
+# Corpo de texto
+
+Este é o corpo de texto do título 1
+
+<!-- Este ? um comentário, não aparece no arquivo gerado -->
+
+## Ênfase
+
+Para ênfase temos: 
+
+`*Itálico* ou _Itálico_`: *Itálico*   
+`**Negrito** ou __Negrito__`: **Negrito**  
+`~~Tachado~~`: ~~Tachado~~
+
+## Subscrito e sobrescrito
+
+Utilizamos `^sobrescrito^` para sobrescrever: 2^2^ = 4
+
+E utilizamos `~subscrito~` para subscrever: a fórmula da água é H~2~O
+
+# Links e imagens
+
+Links e imagens têm formatação próximas
+
+## Links
+
+Há dois tipos de linkagem em R Markdown, texto âncora e links diretos
+
+### Texto âncora (link em texto)
+
+Utilizamos a seguinte formatação: `[Texto](Link)`: [Minicurso](https://www.sympla.com.br/minicurso-elaboracao-de-relatorios-tecnicos-e-paginas-web-usando-r-markdown__1274462)
+
+### Link direto
+
+Colocamos o endereço dentro de `<Link>`:   
+<https://www.sympla.com.br/minicurso-elaboracao-de-relatorios-tecnicos-e-paginas-web-usando-r-markdown__1274462>
+
+## Imagens
+
+Semelhante ao código dos links porém adicionamos um *!* no início
+
+`![Título ou legenda da imagem](Endereço da imagem)`
+
+![Banner Minicurso](C:\Users\Calvin\Documents\UFJF\Curso R Markdown\minicurso.png)
+
+# Lista de itens
+
+Para tópicos ou lista de itens utilizamos `*`, `-` ou `+` na frente do item:
+
+* Item 1 
+- Item 2
++ Item 3
+  * Item 3.1
+  - Item 3.2
+
+# Tabulação
+
+Para as tabelas, temos `|` para delimitar as colunas e `-` para delimitar os títulos, para especificar o tipo de alinhamento usamos `:` no campo dos hífens (o padrão é alinhamento na esquerda)
+
+
+ID  | Produto      | Valor 
+:---|:------------:|------------:
+01  | Computador   | R$ 3.000,00
+02  | Mouse        | R$ 100,00
+03  | Teclado      | R$ 150,00
+
+
+# Códigos
+
+* Códigos inline
+* Múltiplas linhas de código
+
+```{r}
+alfa = runif (1)
+
+head (iris)
+plot (iris$Petal.Length ~ iris$Species)
+```
+
+O valor de alfa, que é gerado através de uma uniforme (0,1), é `r alfa` e seu quadrado é `r alfa^2`
+
+A média do comprimento das pétalas das flores é `r mean(iris$Petal.Length)`cm
+
+### Parâmetros para chunk
+
+* include
+
+Valores são computados porém não temos a saída (output) nem o *chunk* mostrado no relatório.
+
+```{r include = FALSE}
+alfa2 = runif(1)
+
+print (alfa2)
+alfa2^2
+plot (iris$Petal.Length ~ iris$Species)
+```
+
+O valor de alfa2, que é gerado através de uma uniforme (0,1), é `r alfa2`
+
+* eval 
+
+Valores não são computados e não temos a saída, porém o *chunk* é mostrado no relatório.
+
+```{r eval = FALSE}
+alfa3 = runif(1)
+
+print (alfa3)
+alfa3^2
+plot (iris$Petal.Length ~ iris$Species)
+```
+
+O valor de alfa3 não foi computado
+
+* echo 
+
+O contrário direto do *eval = FALSE*, os valores são computados e temos a saída, porém o *chunk* não é mostrado no relatório.
+
+```{r echo = FALSE, message=FALSE, warning=FALSE}
+alfa4 = runif(1)
+
+print (alfa4)
+alfa4^2
+plot (iris$Petal.Length ~ iris$Species)
+```
+
+O valor de alfa4, que é gerado através de uma uniforme (0,1), é `r alfa4`

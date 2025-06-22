@@ -6,7 +6,7 @@ toc: true # Isso atribui o contéudo a direita
 ---
 
 
-# Descrição
+## Descrição
 
 Olá, pessoal! Viemos fazer um convite a vocês. Entre os dias **24/05 e 02/06** estaremos disponibilizando o minicurso **“Introdução à Manipulação de Textos Usando o R”**! O curso será assíncrono e ministrado pelo aluno **Bernardo Alvim**, do 5º período do curso.
 
