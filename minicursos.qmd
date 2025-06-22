@@ -1,4 +1,17 @@
 ---
 title: "Minicursos"
+lang: pt-BR
 format: html
+toc: true # Isso atribui o contéudo a direita
 ---
+
+[O Profissional de Estatística: Como Administrar o Tempo e Encaixar Tudo nas 24 Horas](../minicursos/Como Administrar o Tempo/administrarTempo.html){target="_blank" rel="noopener noreferrer"}.
+
+[Curso de Introdução à Manipulação de Textos Usando o R](../minicursos/Introducao a Manipulacao de Textos Usando o R/introManipulacaoTextosR.html){target="_blank" rel="noopener noreferrer"}.
+
+[Minicurso: Elaboração de Relatórios Técnicos e Paginas Web Usando R Markdown](../minicursos/Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/elaboracaoRelatoriosWebR.html){target="_blank" rel="noopener noreferrer"}.
+
+[Visualização Gráfica em R com GGPLOT2](../minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html){target="_blank" rel="noopener noreferrer"}.
+
+
+

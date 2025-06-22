@@ -1,0 +1,93 @@
+---
+title: "Minicurso: O Profissional de Estatística: Como Administrar o Tempo e Encaixar Tudo nas 24 Horas"
+lang: pt-BR
+format: html
+toc: true # Isso atribui o contéudo a direita
+---
+
+## Descrição
+
+O curso visa fornecer ao discente do curso de Estatística e demais interessados tanto os conhecimentos necessários acerca de ferramentas de produtividade para gerenciamento, automação e listagem de tarefas, dados, informações e arquivos, quanto os conhecimentos sobre si próprio e de métodos que o ajudarão a administrar melhor seu tempo, com foco em aplicações no âmbito do exercício profissional do Estatístico. É uma atividade suplementar à disciplina EST060 - A Profissão e o Mercado de Trabalho que pode ser compartilhada com outros discentes e profissionais.
+
+## Playlist das Videoaulas
+
+- **Módulo 1:** Notion  
+  - [Aula 0](https://www.youtube.com/watch?v=AUaoJEMGDbs){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 1](https://www.youtube.com/watch?v=7HL0R0vmIjU){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 2](https://www.youtube.com/watch?v=KEr9ohRu1hc){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 3](https://www.youtube.com/watch?v=zaUYPPjp0-o){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 4](https://www.youtube.com/watch?v=-YSOlgygJ9o){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 5](https://www.youtube.com/watch?v=Nn44SXmrjeM){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 6](https://www.youtube.com/watch?v=c9UqJSfYEKQ){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 7](https://www.youtube.com/watch?v=YKM1ajpfZ1U){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 8](https://www.youtube.com/watch?v=m-f6z-T__UY){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 9](https://www.youtube.com/watch?v=fTou2ksDfeE){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula 10](https://www.youtube.com/watch?v=fTou2ksDfeE){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula Extra](https://www.youtube.com/watch?v=Hd-cEs8dbxg){target="_blank" rel="noopener noreferrer"}.
+  
+- **Módulo 2:** Trello
+
+  - [Aula	1](https://www.youtube.com/watch?v=cL47u_tpWpU){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2](https://www.youtube.com/watch?v=0fML759d-to){target="_blank" rel="noopener noreferrer"}.
+
+  - [Aula	3](https://www.youtube.com/watch?v=cOl6nI6CDKo){target="_blank" rel="noopener noreferrer"}.
+
+  - [Aula	4](https://www.youtube.com/watch?v=X1Jtvj2dKDU){target="_blank" rel="noopener noreferrer"}.
+
+  - [Aula	5](https://www.youtube.com/watch?v=8m3xSNvXSRQ){target="_blank" rel="noopener noreferrer"}.
+
+  - [Aula	6](https://www.youtube.com/watch?v=U8T22zyXsLA){target="_blank" rel="noopener noreferrer"}.
+
+  - [Aula	7](https://www.youtube.com/watch?v=yYJgXVwpEkk){target="_blank" rel="noopener noreferrer"}.
+
+- **Módulo 3:** Google Calendar e Google Keep
+
+  - [Aula	1](https://www.youtube.com/watch?v=hjKngd7vqkg){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2](https://www.youtube.com/watch?v=hNlj9gZgP5o){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	3](https://www.youtube.com/watch?v=cgkcp-9XIIM){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	4](https://www.youtube.com/watch?v=MYSsFtJbZjg){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	5](https://www.youtube.com/watch?v=AndXlYRPL9U){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	6](https://www.youtube.com/watch?v=sPQfYQIwonA){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	7](https://www.youtube.com/watch?v=n8VxwbX68fU){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	8](https://www.youtube.com/watch?v=R0jrLJTGUHA){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	9](https://www.youtube.com/watch?v=APEt1HBVuq4){target="_blank" rel="noopener noreferrer"}.
+
+- **Módulo 4:** Automação de ações  
+
+  - [Aula	1](https://www.youtube.com/watch?v=A_8D3HfwSmM){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2](https://www.youtube.com/watch?v=t56ucwjLNSw){target="_blank" rel="noopener noreferrer"}.
+
+- **Módulo 5:** Boas práticas e escolhas produtivas  
+
+  - [Aula	1](https://www.youtube.com/watch?v=5mGdjTpqZHI){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2](https://www.youtube.com/watch?v=WzspAsMc06s){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	3](https://www.youtube.com/watch?v=_lP0lTangvs){target="_blank" rel="noopener noreferrer"}.
+
+
+## Sobre os ministrante
+
+- Bryan Carolino Muniz Barbosa  
+- Heloísa Sant'Ana Kohatsu
