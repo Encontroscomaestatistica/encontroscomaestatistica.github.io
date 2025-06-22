@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Encontros com a estatística"
+  navbar:
+    left: 
+      - text: "Inicial"
+        file: index.html
+      - text: "Minicursos"
+        file: minicursos.html
+    right:
+      - icon: github
+        href: https://github.com/Encontroscomaestatistica/
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: [cosmo, theme-dark.scss]
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,54 @@
+---
+title: "Encontros com a estatística"
+image: profile.png
+about:
+  template: jolla
+  links:
+    - icon: at-symbol
+      text: "@ E-mail"
+      href: mailto:encontros.estatistica@ufjf.br
+      target: _blank
+    - icon: github
+      text: GitHub
+      href: https://github.com/Encontroscomaestatistica/
+      target: _blank
+    - icon: youtube
+      text: YouTube
+      href: https://www.youtube.com/channel/UCEzCRrr0m71cxMtpTBSZyhw
+      target: _blank
+
+---
+
+```{=html}
+<style>
+.justify {
+  text-align: justify;
+}
+</style>
+```
+
+## Sobre o projeto
+
+::: justify
+O presente projeto tem como principal objetivo divulgar e disseminar, na comunidade acadêmica e externa, a importância da metodologia estatística em pesquisa, em identificação de padrões que facilitem o entendimento de problemas reais e como ferramental de apoio em processos de tomada de decisões no âmbito público e privado. Busca também mediar um vínculo permanente e periódico entre a comunidade externa e acadêmica, com a finalidade de auscultar suas demandas por novas metodologias e ferramentas estatísticas com finalidade de apoio em suas decisões e adequadas às suas necessidades.
+
+:::
+
+## Objetivos e Metas
+
+::: justify
+ - Divulgar os trabalhos de pesquisa, extensão e de aplicação produzidos pelos professores e alunos do Departamento de Estatística
+ 
+ - Divulgar as possibilidades de atuação do Departamento de Estatística, junto ao conjunto da comunidade acadêmica da UFJF e aos profissionais e empresas públicas e privadas de Juiz de Fora e da região;
+ 
+ - Promover a dimensão interdisciplinar da Estatística através da discussão de problemas de análise e de modelagem  estocástica e inferencial nas várias áreas de conhecimento;
+ 
+ - Estabelecer um canal de comunicação com a comunidade acadêmica e externa, auscultando problemas e necessidades de novas ferramentas e metodologias;
+ 
+ - Disseminar técnicas e métodos estatísticos para docentes e discentes de graduação e de pós-graduação da UFJF,  profissionais, gestores de empresas públicas e privadas;
+ 
+ - Promover Seminário Regional para debater com as comunidades externas e acadêmicas as tendências e as demandas futuras da Estatística.
+ 
+ - Com expectativa de atendimento, pretendemos estabelecer um laço permanente e periódico com a comunidade externa e acadêmica e atender suas demandas por novas metodologias e ferramentas estatísticas.
+
+:::
