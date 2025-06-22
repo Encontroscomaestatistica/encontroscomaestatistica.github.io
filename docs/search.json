@@ -236,5 +236,61 @@
     "title": "Elaboração de Relatórios Técnicos e Páginas Web Usando R Markdown",
     "section": "",
     "text": "A geração de relatórios técnicos e páginas web de análise de dados conectadas diretamente com grandes bases de dados estão se tornando cada vez mais comuns e necessárias no contexto acadêmico e técnico atual.\nA funcionalidade R Markdown tem sido muito utilizada por estatísticos pela familiaridade que os profissionais da área possuem com o R. Diversos tutoriais a respeito do uso de R Markdown estão disponíveis na internet.\nO objetivo deste curso é ensinar não só os conceitos que estão por trás do uso do R Markdown e de suas aplicações, mas também oferecer uma estrutura sólida para a elaboração de procedimentos automatizados para relatar análise de dados."
+  },
+  {
+    "objectID": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html",
+    "href": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html",
+    "title": "Visualização Gráfica em R com GGPLOT2",
+    "section": "",
+    "text": "Visualização gráfica está se tornando cada vez mais comum e necessária no contexto atual de análise de dados. A biblioteca ggplot2 tem sido muito utilizada por estatísticos pela familiaridade que os profissionais da área possuem com o R e pela beleza dos gráficos. Diversos tutoriais a respeito do uso de ggplot2 estão disponíveis na internet.\nO problema é que a produção de gráficos em si é relativamente simples e mecânica, o complexo é produzir gráficos que façam sentido e realmente consigam cumprir seu objetivo de explicar algo. É aí que entra o propósito deste curso: além de ensinar a estrutura do ggplot2, este curso irá abordar conceitos de visualização gráfica que auxiliem o programador a construir gráficos coerentes e elegantes."
+  },
+  {
+    "objectID": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#descrição",
+    "href": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#descrição",
+    "title": "Visualização Gráfica em R com GGPLOT2",
+    "section": "",
+    "text": "Visualização gráfica está se tornando cada vez mais comum e necessária no contexto atual de análise de dados. A biblioteca ggplot2 tem sido muito utilizada por estatísticos pela familiaridade que os profissionais da área possuem com o R e pela beleza dos gráficos. Diversos tutoriais a respeito do uso de ggplot2 estão disponíveis na internet.\nO problema é que a produção de gráficos em si é relativamente simples e mecânica, o complexo é produzir gráficos que façam sentido e realmente consigam cumprir seu objetivo de explicar algo. É aí que entra o propósito deste curso: além de ensinar a estrutura do ggplot2, este curso irá abordar conceitos de visualização gráfica que auxiliem o programador a construir gráficos coerentes e elegantes."
+  },
+  {
+    "objectID": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#playlsit-de-vídeoaulas",
+    "href": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#playlsit-de-vídeoaulas",
+    "title": "Visualização Gráfica em R com GGPLOT2",
+    "section": "Playlsit de Vídeoaulas",
+    "text": "Playlsit de Vídeoaulas\n\nAula 1.\nAula 2.\nAula 3.\nAula 4.\nAula 5."
+  },
+  {
+    "objectID": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#exemplos-e-exercícios",
+    "href": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#exemplos-e-exercícios",
+    "title": "Visualização Gráfica em R com GGPLOT2",
+    "section": "Exemplos e exercícios",
+    "text": "Exemplos e exercícios"
+  },
+  {
+    "objectID": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#material-de-apoio",
+    "href": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#material-de-apoio",
+    "title": "Visualização Gráfica em R com GGPLOT2",
+    "section": "Material de Apoio",
+    "text": "Material de Apoio\nLink"
+  },
+  {
+    "objectID": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#conjuntos-de-dados",
+    "href": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#conjuntos-de-dados",
+    "title": "Visualização Gráfica em R com GGPLOT2",
+    "section": "Conjuntos de Dados",
+    "text": "Conjuntos de Dados\nNão foi disponibilizado nenhum conjunto de dados neste curso."
+  },
+  {
+    "objectID": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#sobre-o-ministrante",
+    "href": "minicursos/Visualizacao Grafica em R com GGPLOT2/visualizacaoGraficaRGGPLOT2.html#sobre-o-ministrante",
+    "title": "Visualização Gráfica em R com GGPLOT2",
+    "section": "Sobre o ministrante",
+    "text": "Sobre o ministrante\n\nPedro Henrique de Mesquita Pacheco\n["
+  },
+  {
+    "objectID": "minicursos/Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gab.html#método-1",
+    "href": "minicursos/Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gab.html#método-1",
+    "title": "Aula 2 - Gabarito",
+    "section": "Método 1",
+    "text": "Método 1\n\nTeoria\nLink para o mendeley: https://www.mendeley.com/download-desktop-new/\n@Hastie2009 diz que…\n@Vathy diz que….\nComo diz Hastie -@Hastie2009\nAlgo que o autor diz (HASTIE, -@Hastie2009)\n\n\nAplicação"
   }
 ]

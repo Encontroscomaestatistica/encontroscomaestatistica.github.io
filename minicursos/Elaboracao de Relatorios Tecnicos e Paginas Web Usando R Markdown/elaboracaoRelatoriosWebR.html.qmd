@@ -43,7 +43,7 @@ O objetivo deste curso é ensinar não só os conceitos que estão por trás do 
   
   - [Aula	2](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gabarito.pdf){target="_blank" rel="noopener noreferrer"}.
   
-  - [Aula	2 - Gabarito 1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2Gab.Rmd){target="_blank" rel="noopener noreferrer"}.
+  - [Aula	2 - Gabarito 1](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/A2Gab.txt){target="_blank" rel="noopener noreferrer"}.
   
   - [Aula	2 - Gabarito 2](../Elaboracao de Relatorios Tecnicos e Paginas Web Usando R Markdown/Aula2GabaritoHTML.Rmd){target="_blank" rel="noopener noreferrer"}.
   

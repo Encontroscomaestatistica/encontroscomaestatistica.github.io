@@ -1,0 +1,42 @@
+---
+title: "Visualização Gráfica em R com GGPLOT2"
+lang: pt-BR
+format: html
+toc: true # Isso atribui o contéudo a direita
+---
+
+## Descrição
+
+Visualização gráfica está se tornando cada vez mais comum e necessária no contexto atual de análise de dados. A biblioteca **ggplot2** tem sido muito utilizada por estatísticos pela familiaridade que os profissionais da área possuem com o R e pela beleza dos gráficos. Diversos tutoriais a respeito do uso de ggplot2 estão disponíveis na internet.
+
+O problema é que a produção de gráficos em si é relativamente simples e mecânica, o complexo é produzir gráficos que façam sentido e realmente consigam cumprir seu objetivo de explicar algo. É aí que entra o propósito deste curso: além de ensinar a estrutura do ggplot2, este curso irá abordar conceitos de visualização gráfica que auxiliem o programador a construir gráficos coerentes e elegantes.
+
+## Playlsit de Vídeoaulas
+
+  - [Aula	1](https://youtu.be/cL96ezjOzbE){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	2](https://youtu.be/dfwCrncD5eo){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	3](https://youtu.be/8jcuBUjaM0Y){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	4](https://youtu.be/zNGy_vy4XhE){target="_blank" rel="noopener noreferrer"}.
+  
+  - [Aula	5](https://youtu.be/CbubR1DwOXA){target="_blank" rel="noopener noreferrer"}.
+
+## Exemplos e exercícios
+
+<!-- Insira aqui exemplos e exercícios -->
+
+## Material de Apoio
+
+[Link](../Visualizacao Grafica em R com GGPLOT2/Material-20250622T150506Z-1-001.zip)
+
+
+## Conjuntos de Dados
+
+*Não foi disponibilizado nenhum conjunto de dados neste curso.*
+
+## Sobre o ministrante
+
+ - Pedro Henrique de Mesquita Pacheco  
+[
